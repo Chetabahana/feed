@@ -4,13 +4,13 @@ span: span16
 title: eQuantum
 baseurl: /feed
 repository: Chetabahana/feed
-action: Chetabahana/maps/actions/runs/16285318094
+action: Chetabahana/maps/actions/runs/19078449002
 description: 
 
-#debug:
-#  dist: false
-#  compress: true
-#  shortcodes: true
+debug:
+  dist: true
+  compress: true
+  shortcodes: true
 
 lsi: false
 incremental: true
@@ -34,7 +34,6 @@ exclude:
   - Dockerfile
 
 plugins:
-  - jemoji
   - jekyll-gist
   - jekyll-avatar
   - jekyll-mentions
