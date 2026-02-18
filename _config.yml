@@ -4,11 +4,11 @@ span: span16
 title: eQuantum
 baseurl: /feed
 repository: Chetabahana/feed
-action: Chetabahana/maps/actions/runs/19078449002
+action: Chetabahana/maps/actions/runs/22124139658
 description: 
 
 debug:
-  dist: true
+  dist: false
   compress: true
   shortcodes: true
 
